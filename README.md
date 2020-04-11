@@ -19,14 +19,14 @@ In other words, we want to know for how many working hours an employee could be 
 # Visualization and insight
 # Age vs Probability
 
-![](Tableau_visaulization/Age vs Probability.png)
+![](Tableau_visaulization/Age_vs_Probability.png)
 
 From the figure, we can clearly see that employees with age 40 years and below absent from work for more three hours.
 For instance, there's a 59 percent chance that an employee who is 28 years will be absent from work for more than three hours.
 
 # Reason vs Probability
 
-![](Tableau_visaulization/Reasons vs Probability.png)
+![](Tableau_visaulization/Reasons_vs_Probability.png)
 
 We can see all reasons contain data for both values 0 and 1 except for reason 2.
 None of the employees (from our 40 observations) were away from work. For this reason, it is removed from the analysis since it provides less information on our dataset.
@@ -44,7 +44,7 @@ When you think of it is quite probable that none of these could be serious enoug
 
 # Transportation Expense and Children
 
-![](Tableau_visaulization/Transportation Expense and Children.png)
+![](Tableau_visaulization/Transportation_Expense_and_Children.png)
 
 We would like to see the probability that a person will be excessively absent from work in relation to the transportation expense they must cover each month as well as to the number of children they have.
 Although loosely we could say that there is a positive correlation. Perhaps if we were given a data set containing more observations this correlation would have been stronger.
