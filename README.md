@@ -26,7 +26,7 @@ For instance, there's a 59 percent chance that an employee who is 28 years will 
 
 # Reason vs Probability
 
-![](Tableau_visaulization/Reasons_vs_Probability.png)
+![](Tableau_visualization/Reason_vs_Probability.png)
 
 We can see all reasons contain data for both values 0 and 1 except for reason 2.
 None of the employees (from our 40 observations) were away from work. For this reason, it is removed from the analysis since it provides less information on our dataset.
