@@ -18,10 +18,12 @@ In other words, we want to know for how many working hours an employee could be 
 
 # Visualization and insight
 # Age vs Probability
+![](Tableau_visaulization/Age vs Probability.png)
 From the figure, we can clearly see that employees with age 40 years and below absent from work for more three hours.
 For instance, there's a 59 percent chance that an employee who is 28 years will be absent from work for more than three hours.
 
 # Reason vs Probability
+![](Tableau_visaulization/Reasons vs Probability.png)
 We can see all reasons contain data for both values 0 and 1 except for reason 2.
 None of the employees (from our 40 observations) were away from work. For this reason, it is removed from the analysis since it provides less information on our dataset.
 If a person is supposed to be absent due to a reason from Group 1 as marked by the dots associated with the value of 1 the probability that she will be excessively absent is above 50 percent.
@@ -37,6 +39,7 @@ It represents what we've called less-serious reasons for absence a dental appoin
 When you think of it is quite probable that none of these could be serious enough to require that a person is absent from their workplace for an entire day. That's why the numbers show that people who have to be absent for such a reason are not expected to be excessively absent as you can see the probability values are all below the mark of 50 percent.
 
 # Transportation Expense and Children
+![](Tableau_visaulization/Transportation Expense and Children.png)
 We would like to see the probability that a person will be excessively absent from work in relation to the transportation expense they must cover each month as well as to the number of children they have.
 Although loosely we could say that there is a positive correlation. Perhaps if we were given a data set containing more observations this correlation would have been stronger.
 Then we could say with certainty that the higher the transportation expenses of a person the higher the chance they will be away from work excessively good.
