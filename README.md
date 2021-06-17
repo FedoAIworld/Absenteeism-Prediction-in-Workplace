@@ -21,7 +21,7 @@ In other words, we want to know for how many working hours an employee could be 
 
 ![](https://github.com/FedoAIworld/Absenteeism_Prediction_in_Workplace/blob/master/Tableau_visualization/Age_vs_Probability.png)
 
-From the figure, we can clearly see that employees with age 40 years and below absent from work for more three hours.
+From the figure, we can clearly see that employees with age 40 years and below absent from work for more than three hours.
 For instance, there's a 59 percent chance that an employee who is 28 years will be absent from work for more than three hours.
 
 # Reason vs Probability
